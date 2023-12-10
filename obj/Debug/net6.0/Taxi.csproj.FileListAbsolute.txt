@@ -1,0 +1,14 @@
+C:\Users\User01\Documents\BingChilling\school12A\asztali_alkalmazasok\taxi\bin\Debug\net6.0\Taxi.exe
+C:\Users\User01\Documents\BingChilling\school12A\asztali_alkalmazasok\taxi\bin\Debug\net6.0\Taxi.deps.json
+C:\Users\User01\Documents\BingChilling\school12A\asztali_alkalmazasok\taxi\bin\Debug\net6.0\Taxi.runtimeconfig.json
+C:\Users\User01\Documents\BingChilling\school12A\asztali_alkalmazasok\taxi\bin\Debug\net6.0\Taxi.dll
+C:\Users\User01\Documents\BingChilling\school12A\asztali_alkalmazasok\taxi\bin\Debug\net6.0\Taxi.pdb
+C:\Users\User01\Documents\BingChilling\school12A\asztali_alkalmazasok\taxi\obj\Debug\net6.0\Taxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\Documents\BingChilling\school12A\asztali_alkalmazasok\taxi\obj\Debug\net6.0\Taxi.AssemblyInfoInputs.cache
+C:\Users\User01\Documents\BingChilling\school12A\asztali_alkalmazasok\taxi\obj\Debug\net6.0\Taxi.AssemblyInfo.cs
+C:\Users\User01\Documents\BingChilling\school12A\asztali_alkalmazasok\taxi\obj\Debug\net6.0\Taxi.csproj.CoreCompileInputs.cache
+C:\Users\User01\Documents\BingChilling\school12A\asztali_alkalmazasok\taxi\obj\Debug\net6.0\Taxi.dll
+C:\Users\User01\Documents\BingChilling\school12A\asztali_alkalmazasok\taxi\obj\Debug\net6.0\refint\Taxi.dll
+C:\Users\User01\Documents\BingChilling\school12A\asztali_alkalmazasok\taxi\obj\Debug\net6.0\Taxi.pdb
+C:\Users\User01\Documents\BingChilling\school12A\asztali_alkalmazasok\taxi\obj\Debug\net6.0\Taxi.genruntimeconfig.cache
+C:\Users\User01\Documents\BingChilling\school12A\asztali_alkalmazasok\taxi\obj\Debug\net6.0\ref\Taxi.dll

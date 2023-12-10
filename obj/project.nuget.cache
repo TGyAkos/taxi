@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vpS4+IL9UakxtokFbB/ZnO5pf9g32wMN11ERT5N+FQRm/IybMjYH8Hw/3FaXa/pDMqk3OFRP9pUkbZAA++T/yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User01\\Documents\\BingChilling\\school12A\\asztali_alkalmazasok\\taxi\\Taxi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User01\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\User01\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\User01\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\User01\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
